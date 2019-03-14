@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Ontdex officially launched!"
-date:   2019-03-15 00:00:00 +0800
+date:   2019-03-15 08:00:00 +0800
 categories: 
+author: "Ontdex team"
 ---
 On March 15, 2019, Singapore, the first decentralized trading platform [Ontdex] (www.ontdex.io) on the new generation of high-performance public chain ontology was officially launched. Since then, the vast number of ontology fans have their own trading platform. On the ontdex, there is no malicious price to manipulate the price of the currency. There is no sudden closure of the coin, and the user's assets are completely self-controllable. However, on ontdex, users also do not enjoy the excellent policy of the centralized exchanges that fast recharge and slowly withdraw, because the user's assets are completely controlled by smart contracts, and ontdex will only be responsible for matching orders. Orders are closed, trading is separated, asset transactions are completed, and the speed of the transaction will depend entirely on the performance of the ontology. The performance of Ontology is obvious to everyone. The second-level block produced is not boasting. From match success to asset to account, the delay is only one second, and the performance is several times higher than other public chains.
 
