@@ -9,4 +9,4 @@ categories:
 
 Ontdex上线伊始，便支持ontology双token自由交易，打通ONT与ONG的流通瓶颈，完美闭圈ontology生态。Ontdex更是支持所有ontology生态的token与ong自由交易，目前已经支持了OEP-4 token与ong的交易，后续将陆续推出OEP-5链上稀有资产拍卖，OEP-8代币转换等功能。
 
-Ontdex有着强大的技术能力作为支撑，将为用户提供长期稳定的服务，并且会将部分收入返回给用户和社区，以此感谢广大用户的支持。
+Ontdex有着强大的技术能力作为支撑，将为用户提供长期稳定的服务，并且会将部分收入返回给用户和社区，以此感谢广大用户的支持。 

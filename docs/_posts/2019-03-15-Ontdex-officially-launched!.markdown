@@ -8,4 +8,4 @@ On March 15, 2019, Singapore, the first decentralized trading platform [Ontdex] 
 
 At the beginning of Ontdex, it supports the dual-token completely trade on the ontology, opening up the circulation bottleneck of ONT and ONG, and perfecting the closed-loop ecology. Ontdex is a token and ong completely trade that supports all ontology ecology. Currently, it has supported OEP-4 token and ong transactions. Subsequently, it will launch OEP-5 chain rare asset auction, OEP-8 token mutual conversion and other functions.
 
-With strong technical capabilities as a support, Ontdex will provide users with long-term and stable services, and will return some of the revenue to users and communities, thanks to the support of users.
+With strong technical capabilities as a support, Ontdex will provide users with long-term and stable services, and will return some of the revenue to users and communities, thanks to the support of users. 
