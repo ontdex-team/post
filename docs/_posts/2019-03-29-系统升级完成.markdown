@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "系统升级完成"
+date:   2019-03-29 23:30:00 +0800
+categories: 
+author: "Ontdex team"
+---
+
+ontdex系统以及升级完毕，现已开放所有功能！
+
+ontdex平台币ODEX交易挖矿正式开启，首期挖矿比例为1:100，消费1个ONG即可得100ODEX！
+
+ontdex-team始终秉承着以用户为中心的原则，将提升用户交易体验放在首位，您们的赞赏就是对我们最大的帮助，捐赠地址：APYukvwd43DE7PiHCy5frbm6471QGYFaFf！
